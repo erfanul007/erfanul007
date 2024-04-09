@@ -18,9 +18,10 @@
   /></a>
 </p>
 
-- 🔭 I’m currently working on **.NET and Angular** - 👨‍💻 All of my projects are
-available at [https://erfanul007.github.io/](https://erfanul007.github.io/) - 📫
-How to reach me **eib.erfan@gmail.com**
+- 🔭 I’m currently working on **.NET and Angular**
+- 👨‍💻 All of my projects are
+available at [https://erfanul007.github.io/](https://erfanul007.github.io/)
+- 📫 How to reach me **eib.erfan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
