@@ -10,8 +10,8 @@
   />
 </p>
 
-- 🔭 I’m currently working on **.NET and Angular**
-- 👨‍💻 All my projects are in the portfolio: [https://erfanul007.github.io/](https://erfanul007.github.io/)
+- 🔭 I’m currently working on **.NET and AI Services**
+- 👨‍💻 All my projects are in the portfolio: [https://erfanul007.github.io/portfolio-ai](https://erfanul007.github.io/portfolio-ai)
 - 📫 Reach me through email: **eib.erfan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
