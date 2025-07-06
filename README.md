@@ -38,9 +38,10 @@
 
 🌐 **Portfolio**: [erfanul007.github.io/portfolio-ai](https://erfanul007.github.io/portfolio-ai)  
 💼 **LinkedIn**: [linkedin.com/in/erfanul007](https://www.linkedin.com/in/erfanul007/)  
-📧 **Email**: eib.erfan@gmail.com *(Feel free to reach out for any opportunities!)*
+📧 **Email**: eib.erfan@gmail.com _(Feel free to reach out for any opportunities!)_
 
 ## Languages and Tools:
+
 <p align="left">
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
     <img
@@ -290,4 +291,28 @@
       height="40"
     />
   </a>
+</p>
+
+<p>
+  <img
+    align="left"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=erfanul007&show_icons=true&locale=en&layout=compact"
+    alt="erfanul007"
+  />
+</p>
+
+<p>
+  &nbsp;<img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api?username=erfanul007&show_icons=true&locale=en"
+    alt="erfanul007"
+  />
+</p>
+
+<p>
+  <img
+    align="center"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=erfanul007&"
+    alt="erfanul007"
+  />
 </p>
