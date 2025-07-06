@@ -10,15 +10,15 @@
 
 ## 🚀 What I Do
 
-🏗️ **System Architecture** • Microservices • Clean Architecture • DDD Patterns  
-⚡ **Quick Adaptation** • Node.js → .NET 8 Migration • Technology Leadership  
-🤖 **AI Integration** • LLM-powered Solutions • Document Analysis • Agentic RAG  
-☁️ **Cloud Native** • Azure Functions • AWS Services • Scalable Deployments
+🏗️ **System Architecture**: Microservices • Clean Architecture • DDD Patterns  
+⚡ **Quick Adaptation**: Node.js → .NET 8 Migration • Technology Leadership  
+🤖 **AI Integration**: LLM-powered Solutions • Document Analysis • Agentic RAG  
+☁️ **Cloud Native**: Azure Functions • AWS Services • Scalable Deployments
 
 ## 💼 Currently
 
-🏢 **Backend Developer (.NET)** @ InfinitiBit • Building AI-powered automation solutions  
-🎯 **Focus Areas**: System Design • Performance Optimization • Team Leadership
+🏢 **Backend Developer**: @ InfinitiBit • Building AI-powered automation solutions  
+🎯 **Focus Areas**: System Design • Performance Optimization • Backend Development
 
 ## 🛠️ Tech Stack
 
@@ -30,9 +30,9 @@
 
 ## 🎯 Key Achievements
 
-• **AI Document Platform** - LLM-powered bid management with intelligent analysis.
-• **Architecture Migration** - Led Node.js to .NET 8 transformation.
-• **AWS Cloud Architecture** - Designed high-throughput solution with MSK, Fargate & Go.
+- **AI Document Platform**: LLM-powered bid management with intelligent analysis.
+- **Architecture Migration**: Led Node.js to .NET 8 transformation.
+- **AWS Cloud Architecture**: Designed high-throughput solution with MSK, Fargate & Go.
 
 ## 📫 Connect
 
@@ -40,7 +40,7 @@
 💼 **LinkedIn**: [linkedin.com/in/erfanul007](https://www.linkedin.com/in/erfanul007/)  
 📧 **Email**: eib.erfan@gmail.com _(Feel free to reach out for any opportunities!)_
 
-## Languages and Tools:
+## Languages and Tools
 
 <p align="left">
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
