@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md Erfanul Islam Bhuiyan</h1>
 <h3 align="center">
-  Backend Developer | System Architecture Enthusiast | AI Solutions Expert<br/>
-  3+ years building scalable .NET applications with microservices & clean architecture
+  Backend Developer | Solution Architecture Enthusiast | AI Solution Expert<br/>
+ <!-- 3+ years building scalable .NET applications with microservices & clean architecture -->
 </h3>
 
 <p align="center">
@@ -19,20 +19,21 @@
 
 🏢 **Backend Developer**: @ InfinitiBit • Building AI-powered automation solutions  
 🎯 **Focus Areas**: System Design • Performance Optimization • Backend Development
-
+<!--
 ## 🛠️ Tech Stack
 
-⚙️ **Backend**: C# • .NET 8 • Go • Python  
+⚙️ **Backend**: C# • .NET 8 • Go • Rust • Python  
 🏛️ **Architecture**: Microservices • Clean Architecture • CQRS • DDD  
 🗄️ **Databases**: MS SQL • PostgreSQL • Redis • EF Core  
 ☁️ **Cloud**: Azure • AWS • Docker • RabbitMQ • Kafka  
-🎨 **Frontend**: React • TypeScript • Tailwind CSS
-
+🎨 **Frontend**: React • TypeScript • Tailwind CSS  
+✨ **AI**: LLM • AI Agents • RAG • Workflow orchestration  
+-->
 ## 🎯 Key Achievements
 
 - **AI Document Platform**: LLM-powered bid management with intelligent analysis.
 - **Architecture Migration**: Led Node.js to .NET 8 transformation.
-- **AWS Cloud Architecture**: Designed high-throughput solution with MSK, Fargate & Go.
+- **Cloud Data Architecture**: Designed high-throughput solution with MSK, Fargate & Go.
 
 ## 📫 Connect
 
@@ -147,6 +148,14 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
       alt="cplusplus"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.rust-lang.org/static/images/rust-logo-blk.svg"
+      alt="rust"
       width="40"
       height="40"
     />
@@ -292,7 +301,7 @@
     />
   </a>
 </p>
-
+<!--
 <p>
   <img
     align="left"
@@ -300,7 +309,8 @@
     alt="erfanul007"
   />
 </p>
-
+-->
+<!--
 <p>
   &nbsp;<img
     align="center"
@@ -308,7 +318,8 @@
     alt="erfanul007"
   />
 </p>
-
+-->
+<!--
 <p>
   <img
     align="center"
@@ -316,3 +327,4 @@
     alt="erfanul007"
   />
 </p>
+-->
